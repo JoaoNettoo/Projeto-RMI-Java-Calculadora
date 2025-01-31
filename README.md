@@ -11,8 +11,3 @@ Este projeto é uma aplicação distribuída utilizando **Java RMI (Remote Metho
 - `CalculadoraImpl.java` → Implementação da interface no servidor.
 - `Servidor.java` → Inicia o serviço RMI e registra a calculadora.
 - `Cliente.java` → Conecta ao servidor e faz chamadas remotas.
-
-## 🔧 Como executar?
-### 1️⃣ Compilar os arquivos:
-```sh
-javac *.java
